@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="EnterprisePOS.Data/SamMaPOS.Data.csproj" Id="53b3dccd-9a02-4e85-aa87-44c4e9c292e9" />
+  <Project Path="EnterprisePOS.Domain/SamMaPOS.Domain.csproj" Id="ecc933bd-3150-44e4-99bb-9a310f7f8f44" />
+  <Project Path="EnterprisePOS.Services/SamMaPOS.Services.csproj" Id="0d1ca134-e157-41c9-9e84-335507cdde7d" />
+  <Project Path="EnterprisePOS.WinForms/SamMaPOS.WinForms.csproj" Id="3147bee1-dc30-4302-877b-c218587a2610" />
+</Solution>
